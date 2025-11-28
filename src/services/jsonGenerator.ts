@@ -1,5 +1,6 @@
 import { writeJsonToFile } from '../utils/fileHandler';
 import { fetchPutPositions } from './positionsService';
+import { calculateTotalCapitalUsed } from './capitalCalculator';
 import { SupabaseClient } from '@supabase/supabase-js';
 
 interface PositionData {
@@ -17,6 +18,8 @@ interface PositionData {
 interface InstrumentData {
   symbol: string;
   totalCapitalUsed: number;
+  totalQuantity: number;
+  currentMarketPrice: number;
   lastUpdated: string;
   putPositions: PositionData[];
   metadata: {
@@ -26,27 +29,17 @@ interface InstrumentData {
 }
 
 export async function generateJsonForSymbol(supabase: SupabaseClient, symbol: string): Promise<void> {
-  const { data: stkPositions, error: stkError } = await supabase
-    .schema('hf')
-    .from('positions')
-    .select('*')
-    .eq('symbol', symbol)
-    .eq('asset_class', 'STK');
+  // Calculate total capital used using the new service
+  const capitalData = await calculateTotalCapitalUsed(supabase, symbol);
 
-  if (stkError) {
-    throw new Error(`Failed to fetch STK positions for ${symbol}: ${stkError.message}`);
-  }
-
-  const totalCapitalUsed = (stkPositions || []).reduce(
-    (sum: number, pos: any) => sum + (parseFloat(pos.market_value) || 0),
-    0
-  );
-
+  // Fetch PUT positions
   const putPositions = await fetchPutPositions(symbol);
 
   const instrumentData: InstrumentData = {
     symbol,
-    totalCapitalUsed,
+    totalCapitalUsed: capitalData.totalCapitalUsed,
+    totalQuantity: capitalData.totalQuantity,
+    currentMarketPrice: capitalData.currentMarketPrice,
     lastUpdated: new Date().toISOString(),
     putPositions,
     metadata: {
