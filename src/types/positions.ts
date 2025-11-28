@@ -2,6 +2,7 @@ export interface Position {
   symbol: string;
   internal_account_id: string;
   contract_quantity: number;
+  accounting_quantity: number;
   market_value: number;
   market_price: number;
   asset_class: string;

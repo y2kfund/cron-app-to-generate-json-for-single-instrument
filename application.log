@@ -70,3 +70,27 @@
 {"level":"info","message":"Processing symbol: MSFT","timestamp":"2025-11-28T12:59:33.091Z"}
 {"level":"info","message":"JSON file generated/updated for symbol: MSFT","timestamp":"2025-11-28T12:59:35.680Z"}
 {"level":"info","message":"All symbols processed successfully.","timestamp":"2025-11-28T12:59:35.680Z"}
+{"level":"info","message":"Fetching stock symbols from orders table...","timestamp":"2025-11-28T13:03:25.999Z"}
+{"level":"info","message":"Processing symbol: META","timestamp":"2025-11-28T13:03:27.431Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: META","timestamp":"2025-11-28T13:03:31.352Z"}
+{"level":"info","message":"Processing symbol: IBIT","timestamp":"2025-11-28T13:03:31.353Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: IBIT","timestamp":"2025-11-28T13:03:34.387Z"}
+{"level":"info","message":"Processing symbol: VGT","timestamp":"2025-11-28T13:03:34.387Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: VGT","timestamp":"2025-11-28T13:03:37.407Z"}
+{"level":"info","message":"Processing symbol: SBET","timestamp":"2025-11-28T13:03:37.408Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: SBET","timestamp":"2025-11-28T13:03:40.472Z"}
+{"level":"info","message":"Processing symbol: VUG","timestamp":"2025-11-28T13:03:40.473Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: VUG","timestamp":"2025-11-28T13:03:43.519Z"}
+{"level":"info","message":"Processing symbol: AAPL","timestamp":"2025-11-28T13:03:43.520Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: AAPL","timestamp":"2025-11-28T13:03:46.259Z"}
+{"level":"info","message":"Processing symbol: CRWV","timestamp":"2025-11-28T13:03:46.259Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: CRWV","timestamp":"2025-11-28T13:03:48.953Z"}
+{"level":"info","message":"Processing symbol: MSTR","timestamp":"2025-11-28T13:03:48.954Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: MSTR","timestamp":"2025-11-28T13:03:52.000Z"}
+{"level":"info","message":"Processing symbol: BMNR","timestamp":"2025-11-28T13:03:52.000Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: BMNR","timestamp":"2025-11-28T13:03:55.030Z"}
+{"level":"info","message":"Processing symbol: COIN","timestamp":"2025-11-28T13:03:55.030Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: COIN","timestamp":"2025-11-28T13:03:58.110Z"}
+{"level":"info","message":"Processing symbol: MSFT","timestamp":"2025-11-28T13:03:58.110Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: MSFT","timestamp":"2025-11-28T13:04:01.166Z"}
+{"level":"info","message":"All symbols processed successfully.","timestamp":"2025-11-28T13:04:01.166Z"}

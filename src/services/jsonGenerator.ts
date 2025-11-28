@@ -7,6 +7,7 @@ interface PositionData {
   symbol: string;
   internal_account_id: string;
   contract_quantity: number;
+  accounting_quantity: number;
   market_value: number;
   market_price: number;
   asset_class: string;
@@ -50,11 +51,11 @@ export async function generateJsonForSymbol(supabase: SupabaseClient, symbol: st
     callPositions,
     metadata: {
       totalPutContracts: putPositions.reduce(
-        (sum: number, pos: any) => sum + Math.abs(parseFloat(pos.contract_quantity) || 0),
+        (sum: number, pos: any) => sum + Math.abs(parseFloat(pos.accounting_quantity) || 0),
         0
       ),
       totalCallContracts: callPositions.reduce(
-        (sum: number, pos: any) => sum + Math.abs(parseFloat(pos.contract_quantity) || 0),
+        (sum: number, pos: any) => sum + Math.abs(parseFloat(pos.accounting_quantity) || 0),
         0
       ),
       accountsWithPositions: [...new Set(putPositions.map(pos => pos.legal_entity).filter((entity): entity is string => entity !== undefined))],
