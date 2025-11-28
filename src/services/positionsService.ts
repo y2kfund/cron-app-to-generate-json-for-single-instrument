@@ -31,7 +31,7 @@ export async function fetchPutPositions(symbol: string): Promise<Position[]> {
   const { data, error } = await supabase
     .schema('hf')
     .from('positions')
-    .select('*')
+    .select('id, internal_account_id, symbol, asset_class, accounting_quantity, delta, price, market_value, unrealized_pnl, avgPrice, conid, undConid, computed_cash_flow_on_entry, computed_cash_flow_on_exercise, computed_be_price')
     .ilike('symbol', `${symbol}% P %`)
     .eq('fetched_at', lastFetchedAt);
 
@@ -66,7 +66,7 @@ export async function fetchCallPositions(symbol: string): Promise<Position[]> {
   const { data, error } = await supabase
     .schema('hf')
     .from('positions')
-    .select('*')
+    .select('id, internal_account_id, symbol, asset_class, accounting_quantity, delta, price, market_value, unrealized_pnl, avgPrice, conid, undConid, computed_cash_flow_on_entry, computed_cash_flow_on_exercise, computed_be_price')
     .ilike('symbol', `${symbol}% C %`)
     .eq('fetched_at', lastFetchedAt);
 
