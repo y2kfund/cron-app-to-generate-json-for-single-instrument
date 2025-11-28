@@ -1,5 +1,5 @@
 import { writeJsonToFile } from '../utils/fileHandler';
-import { fetchPutPositions } from './positionsService';
+import { fetchPutPositions, fetchCallPositions } from './positionsService';
 import { calculateTotalCapitalUsed } from './capitalCalculator';
 import { SupabaseClient } from '@supabase/supabase-js';
 
@@ -22,8 +22,10 @@ interface InstrumentData {
   currentMarketPrice: number;
   lastUpdated: string;
   putPositions: PositionData[];
+  callPositions: PositionData[];
   metadata: {
     totalPutContracts: number;
+    totalCallContracts: number;
     accountsWithPositions: string[];
   };
 }
@@ -35,6 +37,9 @@ export async function generateJsonForSymbol(supabase: SupabaseClient, symbol: st
   // Fetch PUT positions
   const putPositions = await fetchPutPositions(symbol);
 
+  // Fetch CALL positions (if needed in future)
+  const callPositions = await fetchCallPositions(symbol);
+
   const instrumentData: InstrumentData = {
     symbol,
     totalCapitalUsed: capitalData.totalCapitalUsed,
@@ -42,8 +47,13 @@ export async function generateJsonForSymbol(supabase: SupabaseClient, symbol: st
     currentMarketPrice: capitalData.currentMarketPrice,
     lastUpdated: new Date().toISOString(),
     putPositions,
+    callPositions,
     metadata: {
       totalPutContracts: putPositions.reduce(
+        (sum: number, pos: any) => sum + Math.abs(parseFloat(pos.contract_quantity) || 0),
+        0
+      ),
+      totalCallContracts: callPositions.reduce(
         (sum: number, pos: any) => sum + Math.abs(parseFloat(pos.contract_quantity) || 0),
         0
       ),
