@@ -69,3 +69,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
+
+
+python3 ai_analyze.py --user-id 67e578fd-2cf7-48a4-b028-a11a3f89bb9b
