@@ -1,0 +1,192 @@
+{"level":"info","message":"Fetching stock symbols from stocks table...","timestamp":"2025-12-01T11:07:20.841Z"}
+{"level":"info","message":"Processing symbol: ABT","timestamp":"2025-12-01T11:07:23.023Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: ABT","timestamp":"2025-12-01T11:07:25.844Z"}
+{"level":"info","message":"Processing symbol: ACN","timestamp":"2025-12-01T11:07:25.844Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: ACN","timestamp":"2025-12-01T11:07:28.508Z"}
+{"level":"info","message":"Processing symbol: ADBE","timestamp":"2025-12-01T11:07:28.508Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: ADBE","timestamp":"2025-12-01T11:07:31.171Z"}
+{"level":"info","message":"Processing symbol: AMT","timestamp":"2025-12-01T11:07:31.171Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: AMT","timestamp":"2025-12-01T11:07:33.829Z"}
+{"level":"info","message":"Processing symbol: AMZN","timestamp":"2025-12-01T11:07:33.830Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: AMZN","timestamp":"2025-12-01T11:07:36.482Z"}
+{"level":"info","message":"Processing symbol: AON","timestamp":"2025-12-01T11:07:36.482Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: AON","timestamp":"2025-12-01T11:07:39.134Z"}
+{"level":"info","message":"Processing symbol: BAC","timestamp":"2025-12-01T11:07:39.134Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: BAC","timestamp":"2025-12-01T11:07:41.777Z"}
+{"level":"info","message":"Processing symbol: BMNR","timestamp":"2025-12-01T11:07:41.777Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: BMNR","timestamp":"2025-12-01T11:07:44.425Z"}
+{"level":"info","message":"Processing symbol: BRK B","timestamp":"2025-12-01T11:07:44.425Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: BRK B","timestamp":"2025-12-01T11:07:47.053Z"}
+{"level":"info","message":"Processing symbol: CMCSA","timestamp":"2025-12-01T11:07:47.053Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: CMCSA","timestamp":"2025-12-01T11:07:49.694Z"}
+{"level":"info","message":"Processing symbol: CMG","timestamp":"2025-12-01T11:07:49.694Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: CMG","timestamp":"2025-12-01T11:07:52.322Z"}
+{"level":"info","message":"Processing symbol: COST","timestamp":"2025-12-01T11:07:52.322Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: COST","timestamp":"2025-12-01T11:07:54.964Z"}
+{"level":"info","message":"Processing symbol: CRM","timestamp":"2025-12-01T11:07:54.964Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: CRM","timestamp":"2025-12-01T11:07:57.608Z"}
+{"level":"info","message":"Processing symbol: CVX","timestamp":"2025-12-01T11:07:57.608Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: CVX","timestamp":"2025-12-01T11:08:00.238Z"}
+{"level":"info","message":"Processing symbol: GM","timestamp":"2025-12-01T11:08:00.239Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: GM","timestamp":"2025-12-01T11:08:02.863Z"}
+{"level":"info","message":"Processing symbol: GOOG","timestamp":"2025-12-01T11:08:02.863Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: GOOG","timestamp":"2025-12-01T11:08:05.494Z"}
+{"level":"info","message":"Processing symbol: IBIT","timestamp":"2025-12-01T11:08:05.494Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: IBIT","timestamp":"2025-12-01T11:08:08.125Z"}
+{"level":"info","message":"Processing symbol: INTU","timestamp":"2025-12-01T11:08:08.125Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: INTU","timestamp":"2025-12-01T11:08:10.765Z"}
+{"level":"info","message":"Processing symbol: JNJ","timestamp":"2025-12-01T11:08:10.765Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: JNJ","timestamp":"2025-12-01T11:08:13.400Z"}
+{"level":"info","message":"Processing symbol: JPM","timestamp":"2025-12-01T11:08:13.400Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: JPM","timestamp":"2025-12-01T11:08:16.022Z"}
+{"level":"info","message":"Processing symbol: MA","timestamp":"2025-12-01T11:08:16.023Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: MA","timestamp":"2025-12-01T11:08:18.643Z"}
+{"level":"info","message":"Processing symbol: MAR","timestamp":"2025-12-01T11:08:18.643Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: MAR","timestamp":"2025-12-01T11:08:21.266Z"}
+{"level":"info","message":"Processing symbol: META","timestamp":"2025-12-01T11:08:21.267Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: META","timestamp":"2025-12-01T11:08:23.883Z"}
+{"level":"info","message":"Processing symbol: MSFT","timestamp":"2025-12-01T11:08:23.883Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: MSFT","timestamp":"2025-12-01T11:08:26.505Z"}
+{"level":"info","message":"Processing symbol: NVDA","timestamp":"2025-12-01T11:08:26.505Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: NVDA","timestamp":"2025-12-01T11:08:29.160Z"}
+{"level":"info","message":"Processing symbol: PFE","timestamp":"2025-12-01T11:08:29.160Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: PFE","timestamp":"2025-12-01T11:08:31.804Z"}
+{"level":"info","message":"Processing symbol: PG","timestamp":"2025-12-01T11:08:31.804Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: PG","timestamp":"2025-12-01T11:08:34.432Z"}
+{"level":"info","message":"Processing symbol: PYPL","timestamp":"2025-12-01T11:08:34.432Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: PYPL","timestamp":"2025-12-01T11:08:37.074Z"}
+{"level":"info","message":"Processing symbol: QCOM","timestamp":"2025-12-01T11:08:37.074Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: QCOM","timestamp":"2025-12-01T11:08:39.707Z"}
+{"level":"info","message":"Processing symbol: V","timestamp":"2025-12-01T11:08:39.707Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: V","timestamp":"2025-12-01T11:08:42.386Z"}
+{"level":"info","message":"Processing symbol: VGT","timestamp":"2025-12-01T11:08:42.386Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: VGT","timestamp":"2025-12-01T11:08:45.010Z"}
+{"level":"info","message":"Processing symbol: WMT","timestamp":"2025-12-01T11:08:45.010Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: WMT","timestamp":"2025-12-01T11:08:47.640Z"}
+{"level":"info","message":"Processing symbol: COIN","timestamp":"2025-12-01T11:08:47.640Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: COIN","timestamp":"2025-12-01T11:08:50.265Z"}
+{"level":"info","message":"Processing symbol: MSTR","timestamp":"2025-12-01T11:08:50.266Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: MSTR","timestamp":"2025-12-01T11:08:52.891Z"}
+{"level":"info","message":"Processing symbol: SBET","timestamp":"2025-12-01T11:08:52.891Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: SBET","timestamp":"2025-12-01T11:08:55.515Z"}
+{"level":"info","message":"Processing symbol: SCHF","timestamp":"2025-12-01T11:08:55.515Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: SCHF","timestamp":"2025-12-01T11:08:58.219Z"}
+{"level":"info","message":"Processing symbol: VUG","timestamp":"2025-12-01T11:08:58.219Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: VUG","timestamp":"2025-12-01T11:09:00.849Z"}
+{"level":"info","message":"Processing symbol: GE","timestamp":"2025-12-01T11:09:00.849Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: GE","timestamp":"2025-12-01T11:09:03.476Z"}
+{"level":"info","message":"Processing symbol: GEHC","timestamp":"2025-12-01T11:09:03.476Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: GEHC","timestamp":"2025-12-01T11:09:06.106Z"}
+{"level":"info","message":"Processing symbol: GEV","timestamp":"2025-12-01T11:09:06.106Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: GEV","timestamp":"2025-12-01T11:09:08.747Z"}
+{"level":"info","message":"Processing symbol: IEMG","timestamp":"2025-12-01T11:09:08.747Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: IEMG","timestamp":"2025-12-01T11:09:11.386Z"}
+{"level":"info","message":"Processing symbol: KD","timestamp":"2025-12-01T11:09:11.386Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: KD","timestamp":"2025-12-01T11:09:14.075Z"}
+{"level":"info","message":"Processing symbol: M","timestamp":"2025-12-01T11:09:14.076Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: M","timestamp":"2025-12-01T11:09:16.706Z"}
+{"level":"info","message":"Processing symbol: WBD","timestamp":"2025-12-01T11:09:16.706Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: WBD","timestamp":"2025-12-01T11:09:19.337Z"}
+{"level":"info","message":"Processing symbol: WFC","timestamp":"2025-12-01T11:09:19.337Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: WFC","timestamp":"2025-12-01T11:09:21.971Z"}
+{"level":"info","message":"Processing symbol: WHR","timestamp":"2025-12-01T11:09:21.971Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: WHR","timestamp":"2025-12-01T11:09:24.668Z"}
+{"level":"info","message":"Processing symbol: WU","timestamp":"2025-12-01T11:09:24.668Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: WU","timestamp":"2025-12-01T11:09:27.291Z"}
+{"level":"info","message":"All symbols processed successfully.","timestamp":"2025-12-01T11:09:27.291Z"}
+{"level":"info","message":"Fetching stock symbols from stocks table...","timestamp":"2025-12-01T11:28:55.754Z"}
+{"level":"info","message":"Processing symbol: ABT","timestamp":"2025-12-01T11:28:57.921Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: ABT","timestamp":"2025-12-01T11:29:01.701Z"}
+{"level":"info","message":"Processing symbol: ACN","timestamp":"2025-12-01T11:29:01.702Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: ACN","timestamp":"2025-12-01T11:29:04.962Z"}
+{"level":"info","message":"Processing symbol: ADBE","timestamp":"2025-12-01T11:29:04.962Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: ADBE","timestamp":"2025-12-01T11:29:08.215Z"}
+{"level":"info","message":"Processing symbol: AMT","timestamp":"2025-12-01T11:29:08.215Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: AMT","timestamp":"2025-12-01T11:29:11.439Z"}
+{"level":"info","message":"Processing symbol: AMZN","timestamp":"2025-12-01T11:29:11.439Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: AMZN","timestamp":"2025-12-01T11:29:14.659Z"}
+{"level":"info","message":"Processing symbol: AON","timestamp":"2025-12-01T11:29:14.659Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: AON","timestamp":"2025-12-01T11:29:17.873Z"}
+{"level":"info","message":"Processing symbol: BAC","timestamp":"2025-12-01T11:29:17.873Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: BAC","timestamp":"2025-12-01T11:29:21.095Z"}
+{"level":"info","message":"Processing symbol: BMNR","timestamp":"2025-12-01T11:29:21.095Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: BMNR","timestamp":"2025-12-01T11:29:24.314Z"}
+{"level":"info","message":"Processing symbol: BRK B","timestamp":"2025-12-01T11:29:24.314Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: BRK B","timestamp":"2025-12-01T11:29:27.536Z"}
+{"level":"info","message":"Processing symbol: CMCSA","timestamp":"2025-12-01T11:29:27.536Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: CMCSA","timestamp":"2025-12-01T11:29:30.733Z"}
+{"level":"info","message":"Processing symbol: CMG","timestamp":"2025-12-01T11:29:30.733Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: CMG","timestamp":"2025-12-01T11:29:33.941Z"}
+{"level":"info","message":"Processing symbol: COST","timestamp":"2025-12-01T11:29:33.942Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: COST","timestamp":"2025-12-01T11:29:37.159Z"}
+{"level":"info","message":"Processing symbol: CRM","timestamp":"2025-12-01T11:29:37.159Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: CRM","timestamp":"2025-12-01T11:29:40.390Z"}
+{"level":"info","message":"Processing symbol: CVX","timestamp":"2025-12-01T11:29:40.390Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: CVX","timestamp":"2025-12-01T11:29:43.616Z"}
+{"level":"info","message":"Processing symbol: GM","timestamp":"2025-12-01T11:29:43.616Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: GM","timestamp":"2025-12-01T11:29:46.846Z"}
+{"level":"info","message":"Processing symbol: GOOG","timestamp":"2025-12-01T11:29:46.846Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: GOOG","timestamp":"2025-12-01T11:29:50.072Z"}
+{"level":"info","message":"Processing symbol: IBIT","timestamp":"2025-12-01T11:29:50.073Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: IBIT","timestamp":"2025-12-01T11:29:53.283Z"}
+{"level":"info","message":"Processing symbol: INTU","timestamp":"2025-12-01T11:29:53.283Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: INTU","timestamp":"2025-12-01T11:29:56.487Z"}
+{"level":"info","message":"Processing symbol: JNJ","timestamp":"2025-12-01T11:29:56.487Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: JNJ","timestamp":"2025-12-01T11:29:59.690Z"}
+{"level":"info","message":"Processing symbol: JPM","timestamp":"2025-12-01T11:29:59.690Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: JPM","timestamp":"2025-12-01T11:30:02.879Z"}
+{"level":"info","message":"Processing symbol: MA","timestamp":"2025-12-01T11:30:02.879Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: MA","timestamp":"2025-12-01T11:30:06.076Z"}
+{"level":"info","message":"Processing symbol: MAR","timestamp":"2025-12-01T11:30:06.076Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: MAR","timestamp":"2025-12-01T11:30:09.274Z"}
+{"level":"info","message":"Processing symbol: META","timestamp":"2025-12-01T11:30:09.274Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: META","timestamp":"2025-12-01T11:30:12.490Z"}
+{"level":"info","message":"Processing symbol: MSFT","timestamp":"2025-12-01T11:30:12.491Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: MSFT","timestamp":"2025-12-01T11:30:15.715Z"}
+{"level":"info","message":"Processing symbol: NVDA","timestamp":"2025-12-01T11:30:15.715Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: NVDA","timestamp":"2025-12-01T11:30:18.935Z"}
+{"level":"info","message":"Processing symbol: PFE","timestamp":"2025-12-01T11:30:18.936Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: PFE","timestamp":"2025-12-01T11:30:22.169Z"}
+{"level":"info","message":"Processing symbol: PG","timestamp":"2025-12-01T11:30:22.169Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: PG","timestamp":"2025-12-01T11:30:25.400Z"}
+{"level":"info","message":"Processing symbol: PYPL","timestamp":"2025-12-01T11:30:25.400Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: PYPL","timestamp":"2025-12-01T11:30:28.620Z"}
+{"level":"info","message":"Processing symbol: QCOM","timestamp":"2025-12-01T11:30:28.620Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: QCOM","timestamp":"2025-12-01T11:30:31.848Z"}
+{"level":"info","message":"Processing symbol: V","timestamp":"2025-12-01T11:30:31.849Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: V","timestamp":"2025-12-01T11:30:35.072Z"}
+{"level":"info","message":"Processing symbol: VGT","timestamp":"2025-12-01T11:30:35.072Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: VGT","timestamp":"2025-12-01T11:30:38.304Z"}
+{"level":"info","message":"Processing symbol: WMT","timestamp":"2025-12-01T11:30:38.304Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: WMT","timestamp":"2025-12-01T11:30:41.525Z"}
+{"level":"info","message":"Processing symbol: COIN","timestamp":"2025-12-01T11:30:41.525Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: COIN","timestamp":"2025-12-01T11:30:44.730Z"}
+{"level":"info","message":"Processing symbol: MSTR","timestamp":"2025-12-01T11:30:44.730Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: MSTR","timestamp":"2025-12-01T11:30:47.935Z"}
+{"level":"info","message":"Processing symbol: SBET","timestamp":"2025-12-01T11:30:47.935Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: SBET","timestamp":"2025-12-01T11:30:51.161Z"}
+{"level":"info","message":"Processing symbol: SCHF","timestamp":"2025-12-01T11:30:51.161Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: SCHF","timestamp":"2025-12-01T11:30:54.366Z"}
+{"level":"info","message":"Processing symbol: VUG","timestamp":"2025-12-01T11:30:54.366Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: VUG","timestamp":"2025-12-01T11:30:57.581Z"}
+{"level":"info","message":"Processing symbol: GE","timestamp":"2025-12-01T11:30:57.581Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: GE","timestamp":"2025-12-01T11:31:00.804Z"}
+{"level":"info","message":"Processing symbol: GEHC","timestamp":"2025-12-01T11:31:00.804Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: GEHC","timestamp":"2025-12-01T11:31:04.026Z"}
+{"level":"info","message":"Processing symbol: GEV","timestamp":"2025-12-01T11:31:04.026Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: GEV","timestamp":"2025-12-01T11:31:07.241Z"}
+{"level":"info","message":"Processing symbol: IEMG","timestamp":"2025-12-01T11:31:07.241Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: IEMG","timestamp":"2025-12-01T11:31:10.457Z"}
+{"level":"info","message":"Processing symbol: KD","timestamp":"2025-12-01T11:31:10.457Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: KD","timestamp":"2025-12-01T11:31:13.673Z"}
+{"level":"info","message":"Processing symbol: M","timestamp":"2025-12-01T11:31:13.673Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: M","timestamp":"2025-12-01T11:31:16.912Z"}
+{"level":"info","message":"Processing symbol: WBD","timestamp":"2025-12-01T11:31:16.912Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: WBD","timestamp":"2025-12-01T11:31:20.142Z"}
+{"level":"info","message":"Processing symbol: WFC","timestamp":"2025-12-01T11:31:20.142Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: WFC","timestamp":"2025-12-01T11:31:23.361Z"}
+{"level":"info","message":"Processing symbol: WHR","timestamp":"2025-12-01T11:31:23.361Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: WHR","timestamp":"2025-12-01T11:31:26.578Z"}
+{"level":"info","message":"Processing symbol: WU","timestamp":"2025-12-01T11:31:26.578Z"}
+{"level":"info","message":"JSON file generated/updated for symbol: WU","timestamp":"2025-12-01T11:31:29.802Z"}
+{"level":"info","message":"All symbols processed successfully.","timestamp":"2025-12-01T11:31:29.802Z"}
