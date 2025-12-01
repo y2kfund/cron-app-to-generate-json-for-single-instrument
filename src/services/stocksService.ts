@@ -33,7 +33,7 @@ export async function fetchStockSymbols(): Promise<string[]> {
     .from('positions')
     .select('symbol')
     .eq('asset_class', 'STK')
-    .in('symbol', ['IBIT', 'META']) // Example filter for specific stock symbols
+    //.in('symbol', ['IBIT', 'META']) // Example filter for specific stock symbols
     .eq('fetched_at', lastFetchedAt);
 
   if (error) {
